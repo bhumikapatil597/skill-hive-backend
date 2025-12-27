@@ -1,0 +1,98 @@
+module.exports = [
+  {
+    id: 1,
+    title: 'Data Structures & Algorithms Notes',
+    subject: 'Computer Science',
+    type: 'text',
+    size: '2.5 KB',
+    notes:
+      'Detailed notes for core DSA topics: arrays, linked lists, stacks, queues, trees and graphs, with step-by-step examples and practice problems.',
+    uploadDate: '2024-03-10',
+    url: '/files/dsa-notes.txt',
+    downloadCount: 342,
+  },
+  {
+    id: 2,
+    title: 'Cloud Computing',
+    subject: 'Cloud AWS',
+    type: 'PDF',
+    size: '1.2 MB',
+    notes:
+      'Concise notes on cloud computing fundamentals and AWS basics: service models (IaaS, PaaS, SaaS), deployment models, and key services like EC2, S3 and RDS.',
+    uploadDate: '2024-03-12',
+    url: '/files/cloud-computing-notes.pdf',
+    downloadCount: 198,
+  },
+  {
+    id: 3,
+    title: 'Database Management Systems - Unit 1',
+    subject: 'DBMS',
+    type: 'PDF',
+    size: '5.8 MB',
+    notes:
+      'DBMS Unit 1 notes covering database basics, ER diagrams, relational model, keys, constraints and normalization overview.',
+    uploadDate: '2024-03-15',
+    url: '/files/dbms-unit1-notes.pdf',
+    downloadCount: 251,
+  },
+  {
+    id: 4,
+    title: 'Operating Systems – Process Scheduling',
+    subject: 'Operating Systems',
+    type: 'PDF',
+    size: '800 KB',
+    notes:
+      'Quick OS reference for CPU scheduling: FCFS, SJF, Priority, Round Robin and multilevel queues with diagrams and comparisons.',
+    uploadDate: '2024-03-18',
+    url: '/files/os-scheduling-notes.pdf',
+    downloadCount: 287,
+  },
+  {
+    id: 5,
+    title: 'Computer Networks Fundamentals',
+    subject: 'Computer Networks',
+    type: 'PDF',
+    size: '3.2 MB',
+    notes:
+      'Comprehensive notes on computer networks: OSI model, TCP/IP, IP addressing, subnetting, routing protocols, and network security basics.',
+    uploadDate: '2024-03-20',
+    url: '/files/dsa-notes.pdf',
+    downloadCount: 156,
+  },
+  {
+    id: 6,
+    title: 'Software Engineering Principles',
+    subject: 'Software Engineering',
+    type: 'PDF',
+    size: '2.8 MB',
+    notes:
+      'Essential software engineering concepts: SDLC models, requirements engineering, design patterns, testing methodologies, and project management.',
+    uploadDate: '2024-03-22',
+    url: '/files/cloud-computing-notes.pdf',
+    downloadCount: 203,
+  },
+  {
+    id: 7,
+    title: 'Machine Learning Basics',
+    subject: 'Machine Learning',
+    type: 'PDF',
+    size: '4.1 MB',
+    notes:
+      'Introduction to machine learning: supervised vs unsupervised learning, algorithms (linear regression, decision trees, neural networks), and evaluation metrics.',
+    uploadDate: '2024-03-25',
+    url: '/files/dbms-unit1-notes.pdf',
+    downloadCount: 178,
+  },
+  {
+    id: 8,
+    title: 'Web Development with React',
+    subject: 'Web Development',
+    type: 'PDF',
+    size: '2.9 MB',
+    notes:
+      'React fundamentals: components, props, state, hooks, routing, and building modern web applications with best practices.',
+    uploadDate: '2024-03-28',
+    url: '/files/os-scheduling-notes.pdf',
+    downloadCount: 245,
+  },
+];
